@@ -11,7 +11,7 @@ Questo meccanismo di generazione e sintesi rappresenta il concetto principale di
 ### Video dimostrativo per l'utilizzo
 [![Guarda il video](https://img.youtube.com/vi/4waMv1c0uK8/0.jpg)](https://www.youtube.com/watch?v=4waMv1c0uK8)
 
-### Esempi di frammenti musicali
+### Video contenente frammenti musicali d'esempio
 [![Guarda il video](https://img.youtube.com/vi/kNBJ8cLUYOc/0.jpg)](https://www.youtube.com/watch?v=kNBJ8cLUYOc)
 
 ### Come aprire la patch
@@ -24,6 +24,9 @@ Questo meccanismo di generazione e sintesi rappresenta il concetto principale di
 Viene reso disponibile il  documento completo della tesi o una versione ridotta con il solo manuale:  
 [Download tesi PDF](documents/thesis.pdf)
 [Download manuale PDF](documents/manual.pdf)
+
+### Altri frammenti musicali d'esempio
+[altri esempi](audio_examples/)
 
 ### Cosa farei di diverso, oggi, per un progetto del genere
 Non farei un progetto così ampio e "general purpose": Max va utilizzato per progetti più circoscritti, anche complessi, ma con uno scopo più delimitato
