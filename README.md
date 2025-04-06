@@ -5,7 +5,6 @@ Coreeno ha un sistema di generazione di frequenze progettato in modo tale da pro
 Questo meccanismo di generazione e sintesi rappresenta il concetto principale di Coreeno, ma lo strumento integra varie funzionalità e meccanismi tipici dei classici sintetizzatori (modulazioni, inviluppo, ecc.) e accorgimenti specifici (vari tipi di oscillatori, FM, ecc.).
 
 
-### Screenshot
 ![Screenshot della patch](images/screenshot.png)
 
 ### Video dimostrativo per l'utilizzo
