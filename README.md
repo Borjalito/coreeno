@@ -16,7 +16,7 @@ Questo meccanismo di generazione e sintesi rappresenta il concetto principale di
 
 ### Come aprire la patch
 1. Installare Max dal sito ufficiale [cycling74.com](https://cycling74.com)
-2. Scaricare Coreeno_v0.05.zip
+2. Scaricare [Coreeno_v0.05.zip](Coreeno_v0.05.zip)
 3. Aprire "Coreeno_v0.05.maxproj". Potrebbe essere necessario avviare prima Max e importarlo da File -> Open...
 4. Premere il tasto di accensione presente nella master section, impostato inizialmente su "OFF"
 
