@@ -7,42 +7,28 @@ Coreeno ha un sistema di generazione di frequenze progettato in modo tale da pro
 Questo meccanismo di generazione e sintesi rappresenta il concetto principale di Coreeno, ma lo strumento integra varie funzionalità e meccanismi tipici dei classici sintetizzatori (modulazioni, inviluppo, ecc.) e accorgimenti specifici (vari tipi di oscillatori, FM, ecc.).
 
 
-
 ### Screenshot
 ![Screenshot della patch](images/screenshot.png)
 
 ### Video dimostrativo per l'utilizzo
-[![Guarda il video](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=4waMv1c0uK8)
+[![Guarda il video](https://img.youtube.com/vi/4waMv1c0uK8/0.jpg)](https://www.youtube.com/watch?v=4waMv1c0uK8)
 
 ### Esempi di frammenti musicali
-[![Guarda il video](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=kNBJ8cLUYOc)
+[![Guarda il video](https://img.youtube.com/vi/kNBJ8cLUYOc/0.jpg)](https://www.youtube.com/watch?v=kNBJ8cLUYOc)
 
 ### Come aprire la patch
-1. Necessario avere Max installato: disponibile su [cycling74.com](https://cycling74.com).
+1. Installare Max dal sito ufficiale [cycling74.com](https://cycling74.com)
 2. Scaricare Coreeno_v0.05.zip
 3. Aprire "Coreeno_v0.05.maxproj". Potrebbe essere necessario avviare prima Max e importarlo da File -> Open...
-4. Premere il tasto rosso di accensione sulla destra dello schermo, nella master section, inizialmente impostato su "OFF"
+4. Premere il tasto di accensione presente nella master section, impostato inizialmente su "OFF"
 
 ### Tesi
-Il documento completo della tesi è disponibile qui:  
-[Download tesi PDF](thesis/Tesi_Sintetizzatore.pdf)
-
+Viene reso disponibile il  documento completo della tesi o una versione ridotta con il solo manuale:  
+[Download tesi PDF](documents/thesis.pdf)
+[Download manuale PDF](documents/manual.pdf)
 
 ### Cosa farei di diverso, oggi, per un progetto del genere
--meno cose e più curate
--più modularità ed estendibilità
--non farei un progetto così ampio e "general purpose". La programmazione in Max è di alto livello per un programmatore ma di basso per un musicista. Va utilizzato con progetti più circoscritti, magari anche più complessi di questa patch ma con uno scopo più preciso. Come sempre, nell'informatica è inutile reinventare la ruota e si farebbe meglio a guardarsi attorno prima di fare le cose da soli
+Non farei un progetto così ampio e "general purpose": Max va utilizzato per progetti più circoscritti, anche complessi, ma con uno scopo più delimitato
 
 ### Perché Max è stato importante per me
--anche se l'utilizzo che ne ho fatto non è stato ottimale, ho potuto scontrarmi con molti problemi e imparare tante cose. Nonostante l'ingenuità progettuale, il software risulta interessante e valido
--mi ha fatto scoprire veramente la passione per la programmazione
--mi ha offerto uno spazio creativo dove sperimentare e realizzare le mie idee
-
-
-
----
-
-## English
-
-
-
+Max è stato la mia prima esperienza seria di programmazione. Non è un linguaggio ma un'ambiente visuale per la programmazione, eppure mi ha insegnato molto. Il mio approccio a Max è stato un po' naive, ma ho imparato tante cose. Nonostante l'ingenuità progettuale, il software risulta ancora interessante e valido per sperimentazioni musicali
