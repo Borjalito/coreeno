@@ -21,6 +21,6 @@ Questo meccanismo di generazione e sintesi rappresenta il concetto principale di
 4. Premere il tasto di accensione presente nella master section, impostato inizialmente su "OFF"
 
 ### Tesi, manuale e altri esempi (download)
-[Download tesi PDF](documents/thesis.pdf)
-[Download manuale PDF](documents/manual.pdf)
-[Esempi musicali](audio_examples/)  
+[Download tesi PDF](documents/thesis.pdf)<br>
+[Download manuale PDF](documents/manual.pdf)<br>
+[Esempi musicali](audio_examples/)<br>
