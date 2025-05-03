@@ -1,7 +1,7 @@
 # Coreeno
 Un software per la generazione e la sintesi di strutture sonore costruito in Max/MSP (Cycling '74), sviluppato come progetti di tesi per la laurea triennale in Musica Elettronica al conservatorio.  
 
-Coreeno ha un sistema di generazione di frequenze progettato in modo tale da produrre dei suoni di sintesi additiva. Lo strumento integra un sequencer con un comportamento differente rispetto a un utilizzo tradizionale: le note vengono assegnate con particolari criteri ai nove oscillatori presenti, basandosi su parametri melodici, armonici e ritmici.  
+Coreeno ha un sistema di generazione di sintesi additiva, implementato mediante un sequencer. Tuttavia, il comportamento del sequener viene intepretato in modo leggermente differente rispetto a un utilizzo tradizionale: le note vengono assegnate con diversi criteri ai nove oscillatori presenti, basandosi su parametri melodici, armonici e ritmici.
 Questo meccanismo di generazione e sintesi rappresenta il concetto principale di Coreeno, ma lo strumento integra varie funzionalità e meccanismi tipici dei classici sintetizzatori (modulazioni, inviluppo, ecc.) e accorgimenti specifici (vari tipi di oscillatori, FM, ecc.).
 
 
